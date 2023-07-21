@@ -1,11 +1,31 @@
-# Getting Started with Create React App
+# Backroads - Travel Exploration Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Links
+## Demo
 
-- Solution URL: [GitHub Repository](https://github.com/aruntutter/backroads)
-- Live Demo: [Live Demo URL](https://monumental-mochi-12d503.netlify.app/)
+- You can view a live demo of the Backroads project [Click here](https://dazzling-cucurucho-ab2f16.netlify.app).
+
+## Description
+
+Backroads is a responsive web application that provides users with an immersive travel experience. The website offers various features for travelers, including exploring popular destinations, viewing travel itineraries, and booking tours. Whether you're a seasoned traveler or just starting your journey, Backroads has something to offer for everyone.
+
+## Features
+
+- **Explore Destinations**: Browse through a wide range of destinations with stunning images and detailed descriptions.
+- **Travel Itineraries**: Find pre-planned itineraries for different locations, making trip planning a breeze.
+- **Tour Booking**: Book tours and activities directly through the website.
+- **User Authentication**: Create an account and log in to access personalized features.
+- **Responsive Design**: Enjoy a seamless experience on desktop, tablet, and mobile devices.
+
+## Technologies Used
+
+- [React](https://reactjs.org/): A popular JavaScript library for building user interfaces.
+- [React Router](https://reactrouter.com/): For handling navigation and routing within the app.
+- [Redux](https://redux.js.org/): For managing the application state.
+- [Styled Components](https://styled-components.com/): For styling React components with CSS.
+- [Axios](https://axios-http.com/): For making HTTP requests to external APIs.
+- [Netlify](https://www.netlify.com/): For deploying and hosting the live demo.
 
 ## Available Scripts
 
